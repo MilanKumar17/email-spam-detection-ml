@@ -1,0 +1,16 @@
+Email Spam Detection Project Results
+======================================
+Dataset rows: 3500
+Ham: 2100
+Spam: 1400
+Test size: 20%
+Random state: 42
+
+Accuracy: 1.0000
+Precision: 1.0000
+Recall: 1.0000
+F1 Score: 1.0000
+
+Confusion Matrix:
+[[420, 0],
+ [0, 280]]
